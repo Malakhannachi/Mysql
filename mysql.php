@@ -22,9 +22,9 @@ var_dump($recipes);
     
     <tr>
             
-            <td>nom</td>
-            <td>temps_preparation</td>
-            <td>type_recettes</td>
+            <th>nom</th>
+            <th>temps_preparation</th>
+            <th>type_recettes</th>
             
         </tr>
     <?php 
